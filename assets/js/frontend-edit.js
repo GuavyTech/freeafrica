@@ -109,8 +109,8 @@
 					var moduleEditUrl = enclosingModuleDiv.data("jmodediturl");
 					// Transform module editing URL into Menu Item editing url:
 					var menuitemEditUrl = moduleEditUrl.replace(
-						/\/index.php\?option=com_config&controller=config.display.modules([^\d]+).+$/,
-						"/administrator/index.php?option=com_menus&view=item&layout=edit$1" + itemids[1]
+						/\/more\?option=com_config&controller=config.display.modules([^\d]+).+$/,
+						"/administrator/more?option=com_menus&view=item&layout=edit$1" + itemids[1]
 					);
 				}
 
