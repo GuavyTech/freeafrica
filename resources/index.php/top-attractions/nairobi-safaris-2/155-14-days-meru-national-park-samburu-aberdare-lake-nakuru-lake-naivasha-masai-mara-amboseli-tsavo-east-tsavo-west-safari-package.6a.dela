@@ -1,0 +1,1087 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Free africa Tours & Safaris - Travel & travell Operator</title>
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<meta content="" name="keywords">
+	<meta content="" name="description">
+
+	<!-- Favicon -->
+	<link href="img/favicon.ico" rel="icon">
+
+	<!-- Google Web Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&display=swap"
+		rel="stylesheet">
+
+	<!-- Icon Font Stylesheet -->
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+	<!-- Libraries Stylesheet -->
+	<link href="/lib/animate/animate.min.css" rel="stylesheet">
+	<link href="/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+	<link href="/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+
+	<!-- Customized Bootstrap Stylesheet -->
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- Template Stylesheet -->
+	<link href="/css/style.css " rel="stylesheet">
+</head>
+
+<body>
+	<!-- Spinner Start -->
+
+	<!-- Spinner End -->
+
+	<!-- Topbar Start -->
+	<div class="container-fluid bg-dark px-5 d-none d-lg-block">
+		<div class="row gx-0">
+			<div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
+				<div class="d-inline-flex align-items-center" style="height: 45px;">
+					<small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>101641-00101 Nairobi,
+						Kenya</small>
+					<small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+254 720 765 208</small>
+					<small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@freeafricatours.com</small>
+				</div>
+			</div>
+			<div class="col-lg-4 text-center text-lg-end">
+				<div class="d-inline-flex align-items-center" style="height: 45px;">
+					<a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i
+							class="fab fa-twitter fw-normal"></i></a>
+					<a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i
+							class="fab fa-facebook-f fw-normal"></i></a>
+					<a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i
+							class="fab fa-linkedin-in fw-normal"></i></a>
+					<a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i
+							class="fab fa-instagram fw-normal"></i></a>
+					<a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href=""><i
+							class="fab fa-youtube fw-normal"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Topbar End -->
+
+	<!-- Navbar & Hero Start -->
+	<div class="container-fluid position-relative p-0">
+		<nav class="navbar navbar-expand-lg navbar-light" style="padding: 20px 30px;">
+			<a href="/index.html" class="navbar-brand p-0" style="display: flex; align-items: center;">
+				<img src="/img/smalllogo.png" alt="Logo" style="height: 70px; width: auto;">
+			</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+				<span class="fa fa-bars"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarCollapse">
+				<div class="navbar-nav ms-auto py-0">
+					<a href="/index.html" class="nav-item nav-link">Home</a>
+					<a href="/about.html" class="nav-item nav-link">About</a>
+					<a href="/service.html" class="nav-item nav-link">Services</a>
+					<a href="/package.html" class="nav-item nav-link active">Packages</a>
+					<div class="nav-item dropdown">
+						<a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+						<div class="dropdown-menu m-0">
+							<a href="/destination.html" class="dropdown-item">Destination</a>
+							<a href="/booking.html" class="dropdown-item">Booking</a>
+							<a href="/team.html" class="dropdown-item">Travel Guides</a>
+							<a href="/testimonial.html" class="dropdown-item">Testimonial</a>
+							<a href="/info.html" class="dropdown-item">more info</a>
+						</div>
+					</div>
+					<a href="/contact.html" class="nav-item nav-link">Contact</a>
+				</div>
+				<a href="/register.html" class="btn btn-primary rounded-pill py-2 px-4">Register</a>
+			</div>
+		</nav>
+
+		<div class="container-fluid bg-primary py-5 mb-5 hero-header">
+			<div class="container py-5">
+				<div class="row justify-content-center py-5">
+					<div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
+						<h1 class="display-3 text-white animated slideInDown">Packages Home</h1>
+						<nav aria-label="breadcrumb">
+							<ol class="breadcrumb justify-content-center">
+								<li class="breadcrumb-item"><a href="/index.html">Home</a></li>
+								<li class="breadcrumb-item"><a href="#">Pages</a></li>
+								<li class="breadcrumb-item text-white active" aria-current="/packageshome.html">Packages
+									Home</li>
+							</ol>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Navbar & Hero End -->
+
+	<head>
+		<meta name="title" content="14 days kenya safari holiday with low budget" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<base />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="keywords"
+			content="game, day, drive, overnight, afternoon, lunch, dinner, safari, national, park, lodge, v , depart, breakfast, morning, drives, lake, tsavo, samburu, nairobi" />
+		<meta name="robots"
+			content="index, follow, noarchive, noimageindex, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+		<meta name="author" content="Rolph" />
+		<meta name="metatitle" content="14 days kenya safari holiday with low budget" />
+		<meta name="description" content="14 Days Meru National Park, Samburu,Aberdare, Lake Nakuru, Lake Naivasha,Masai Mara,Amboseli,Tsavo East, Tsavo West, Safari package
+Day 1. Pick up from Nairobi hotel and depart for Samburu National Park to arrive for a short game drive then lunch.Afternoon game drive. Dinner and overnight  at Samburu Sentrim Camp.
+D" />
+		<meta name="generator"
+			content="Joomla! - Open Source Content Management + SEOSimple (http://daobydesign.com)" />
+		<title>14 days kenya safari holiday with low budget</title>
+		<link href="/www.freeafricatourssafaris.com/templates/shaper_helix3/images/favicon.ico"
+			rel="shortcut icon" type="image/vnd.microsoft.icon" />
+		<link
+			href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=latin"
+			rel="stylesheet" type="text/css" />
+		<link href="http://fonts.googleapis.com/css?family=Domine:regular,700&amp;subset=latin-ext" rel="stylesheet"
+			type="text/css" />
+		<link href="/www.freeafricatourssafaris.com/templates/shaper_helix3/css/bootstrap.min.css"
+			rel="stylesheet" type="text/css" />
+		<link href="/www.freeafricatourssafaris.com/templates/shaper_helix3/css/joomla-fontawesome.min.css"
+			rel="stylesheet" type="text/css" />
+		<link href="/www.freeafricatourssafaris.com/templates/shaper_helix3/css/font-awesome-v4-shims.min.css"
+			rel="stylesheet" type="text/css" />
+		<link href="/www.freeafricatourssafaris.com/templates/shaper_helix3/css/template.css" rel="stylesheet"
+			type="text/css" />
+		<link href="/www.freeafricatourssafaris.com/templates/shaper_helix3/css/presets/preset3.css"
+			rel="stylesheet" class="preset" type="text/css" />
+		<link href="/www.freeafricatourssafaris.com/templates/shaper_helix3/css/frontend-edit.css"
+			rel="stylesheet" type="text/css" />
+		<link
+			href="/www.freeafricatourssafaris.com/modules/mod_vina_awesome_image_slider/assets/styles/style.css"
+			rel="stylesheet" type="text/css" />
+		<style type="text/css">
+			body {
+				font-family: Open Sans, sans-serif;
+				font-weight: 300;
+			}
+
+			h1 {
+				font-family: Open Sans, sans-serif;
+				font-weight: 800;
+			}
+
+			h2 {
+				font-family: Open Sans, sans-serif;
+				font-weight: 600;
+			}
+
+			h3 {
+				font-family: Open Sans, sans-serif;
+				font-weight: normal;
+			}
+
+			h4 {
+				font-family: Open Sans, sans-serif;
+				font-weight: normal;
+			}
+
+			h5 {
+				font-family: Open Sans, sans-serif;
+				font-weight: 600;
+			}
+
+			h6 {
+				font-family: Open Sans, sans-serif;
+				font-weight: 600;
+			}
+
+			.sp-megamenu-parent {
+				font-family: Domine, sans-serif;
+				font-size: 23px;
+				font-weight: 700;
+			}
+
+			@media (min-width: 1400px) {
+				.container {
+					max-width: 1140px;
+				}
+			}
+
+			#sp-top-bar {
+				background-color: #f5f5f5;
+				color: #999999;
+			}
+
+			#sp-bottom {
+				background-color: #f5f5f5;
+				padding: 100px 0px;
+			}
+		</style>
+		<script type="application/json" class="joomla-script-options new">
+			{
+				"csrf.token": "4161fc51da55e46dd068c49119d09812",
+				"system.paths": {
+					"root": "",
+					"base": ""
+				}
+			}
+		</script>
+		<script src="/www.freeafricatourssafaris.com/media/jui/js/jquery.min.js?4334535fa67e7300da99c2d1182c96a9"
+			type="text/javascript"></script>
+		<script
+			src="/www.freeafricatourssafaris.com/media/jui/js/jquery-noconflict.js?4334535fa67e7300da99c2d1182c96a9"
+			type="text/javascript"></script>
+		<script
+			src="/www.freeafricatourssafaris.com/media/jui/js/jquery-migrate.min.js?4334535fa67e7300da99c2d1182c96a9"
+			type="text/javascript"></script>
+		<script src="/www.freeafricatourssafaris.com/media/system/js/core.js?4334535fa67e7300da99c2d1182c96a9"
+			type="text/javascript"></script>
+		<script src="/www.freeafricatourssafaris.com/plugins/system/helix3/assets/js/bootstrap.legacy.js"
+			type="text/javascript"></script>
+		<script src="/www.freeafricatourssafaris.com/templates/shaper_helix3/js/bootstrap.min.js"
+			type="text/javascript"></script>
+		<script src="/www.freeafricatourssafaris.com/templates/shaper_helix3/js/jquery.sticky.js"
+			type="text/javascript"></script>
+		<script src="/www.freeafricatourssafaris.com/templates/shaper_helix3/js/main.js" type="text/javascript">
+		</script>
+		<script src="/www.freeafricatourssafaris.com/templates/shaper_helix3/js/frontend-edit.js"
+			type="text/javascript"></script>
+		<script src="/www.freeafricatourssafaris.com/modules/mod_vina_awesome_image_slider/assets/js/script.js"
+			type="text/javascript"></script>
+		<script
+			src="/www.freeafricatourssafaris.com/modules/mod_vina_awesome_image_slider/assets/js/effects/blinds/script.js"
+			type="text/javascript"></script>
+		<script type="text/javascript">
+			var sp_preloader = '0';
+			var sp_gotop = '0';
+			var sp_offanimation = 'slidetop';
+			var Tawk_API = Tawk_API || {},
+				Tawk_LoadStart = new Date();
+			(function() {
+				var s1 = document.createElement("script"),
+					s0 = document.getElementsByTagName("script")[0];
+				s1.async = true;
+				s1.src = "https://embed.tawk.to/66371d8107f59932ab3c2518/1hteoclkb";
+				s1.charset = "UTF-8";
+				s1.setAttribute("crossorigin", "*");
+				s0.parentNode.insertBefore(s1, s0);
+			})();
+		</script>
+		<meta property="og:url"
+			content="/resources/index.php/top-attractions/nairobi-safaris-2/155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title"
+			content="14 Days Meru National Park, Samburu,Aberdare, Lake Nakuru, Lake Naivasha,Masai Mara,Amboseli,Tsavo East, Tsavo West, Safari package" />
+		<meta property="og:description"
+			content="14 Days Meru National Park, Samburu,Aberdare, Lake Nakuru, Lake Naivasha,Masai Mara,Amboseli,Tsavo East, Tsavo West, Safari package Day 1. Pick up from Nai..." />
+		<!-- Start: Google Structured Data -->
+		<script type="application/ld+json" data-type="gsd">
+			{
+				"@context": "https://schema.org",
+				"@type": "BreadcrumbList",
+				"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "/resources/index.php"
+				}, {
+					"@type": "ListItem",
+					"position": 2,
+					"name": "KENYA SAFARIS",
+					"item": "/resources/index.php/top-attractions.html"
+				}, {
+					"@type": "ListItem",
+					"position": 3,
+					"name": "NAIROBI SAFARIS",
+					"item": "/resources/index.php/top-attractions/nairobi-safaris-2.html"
+				}, {
+					"@type": "ListItem",
+					"position": 4,
+					"name": "14 Days Meru National Park, Samburu,Aberdare, Lake Nakuru, Lake Naivasha,Masai Mara,Amboseli,Tsavo East, Tsavo West, Safari package",
+					"item": "/resources/index.php/top-attractions/nairobi-safaris-2/155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html"
+				}]
+			}
+		</script>
+		<script type="application/ld+json" data-type="gsd">
+			{
+				"@context": "https://schema.org",
+				"@type": "Article",
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+					"@id": "/resources/index.php/top-attractions/nairobi-safaris-2/155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html"
+				},
+				"headline": "14 Days Meru National Park, Samburu,Aberdare, Lake Nakuru, Lake Naivasha,Masai Mara,Amboseli,Tsavo East, Tsavo West, Safari package",
+				"description": "14 Days Meru National Park, Samburu,Aberdare, Lake Nakuru, Lake Naivasha,Masai Mara,Amboseli,Tsavo East, Tsavo West, Safari package Day 1. Pick up from Nairobi hotel and depart for Samburu National Park to arrive for a short game drive then lunch.Afternoon game drive. Dinner and overnight  at Samburu Sentrim Camp. Day 2. Full day  in Samburu with Morning and afternoon game drive .Meals and overnight at Samburu Sentrim Camp. Day 3. Breakfast and depart for Meru National park arrive for game drive, then lunch, followed by afternoon game drive. Dinner and overnight at Rhino River Lodge. Day 4. Full day in Meru with Morning and afternoon game drive .Meals and overnight at Rhino River Lodge. Day 5. After breakfast depart for aberdare National park to Arrive in time for lunch have lunch at Aberdare country club and prooced to the Ark Lodge in the Afternoon for dinner and overnight. Day 6 for Lake Nakuru National park this day for game drives. Lunch at Waterbuck hotel. Afternoon game drives for birding to this orinthologicals paradise. Dinner and overnight at the Waterbuck Hotel. Day 7. Breakfast depart and drive to Maasai mara National reserve. Arrive in time for lunch. Afternoon game viewing drives. Dinner and overnight at the Fisi Camp. Day 8. Full day in Maasai Mara with morning and afternoon game viewing or optional full day game drive with picnic lunch. Dinner and overnight at  Mara Fisi Camp. Day 9: Breakfast, then depart for Lake Naivasha arrive for Lunch and in the afternoon visit hells gate for game drive and bike rike riding.Dinner and overnight at Kongoni Lodge. Day 10. Early morning breakfast and depart for trekking at Mt Longonot with picnic lunch. Later driver to Nairobi for dinner and overnight at the Monarch Hotel Day 11. Leave Nairobi Hotel in the morning and drive to Amboseli National Park.Lunch at AA Lodge followed by afternoon game drive.Dinner and overnight at  AA Lodge Amboseli. Day 12. Early morning game drive and depart for Tsavo west National park with a visit to Mzima springs. Lunch at Ngulia Lodge followed by afternoon game drive and a visit to the rhino sanctuary. Dinner and overnight at Ngulia Safari Lodge Day 13. Breakfast then depart for Tsavo east National Park for the game drives.Lunch at the Voi safari Lodge.Afternoon game drives. Dinner and overnight at Voi safari Lodge. Day 14. Breakfast then Return drive to Nairobi. Lunch  at Carnivore restaurant then drop off Airport for your departure flight. Price per person sharing @ US$ 5050   QUOTATION INCLUDES: Departure Airport transfers  Full board accommodation in Lodges/ camps while on safari   Transport on exclusive (prívate) basis in a 08-Seater safari microbús (07-window seats) with a roof hatch for enhanced game viewing / photography and services of a professional ENGLISH speaking driver/guide.. Game viewing drives as indicated on itinerary above   Park entrance fees Bottled mineral water in vehicle on safari.   Welcome pack in Nairobi, with complimentary safari hat, operating itinerary, safari information.    NOT INCLUDED v  International and local flights v  Airport departure taxes v  Visa fees – payable direct  ( at US$ 50 PP) for single entry visa. v  Drinks. v  Travel and medical insurances v  Porterage, tips and gratuities to local waiting staff and driver guides. v  Excursions not detailed in above program. v  All Items of personal nature e.g. laundry, phone charges etc.  ",
+				"image": {
+					"@type": "ImageObject",
+					"url": "/www.freeafricatourssafaris.com/"
+				},
+				"author": {
+					"@type": "Person",
+					"name": "Rolph",
+					"url": "/resources/index.php/top-attractions/nairobi-safaris-2/155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html"
+				},
+				"publisher": {
+					"@type": "Organization",
+					"name": "Free Africa Tours and Safaris",
+					"logo": {
+						"@type": "ImageObject",
+						"url": "/www.freeafricatourssafaris.com/images/smalllogo.jpg"
+					}
+				},
+				"datePublished": "2018-09-04T11:18:53+00:00",
+				"dateCreated": "2018-09-04T11:18:53+00:00",
+				"dateModified": "2023-09-12T10:08:52+00:00"
+			}
+		</script>
+		<!-- End: Google Structured Data -->
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-1ca803e2-fec0-4316-9184-2e7fb12b240f" data-elfsight-app-lazy></div>
+	</head>
+
+	<body
+		class="site com-content view-article no-layout no-task itemid-197 en-gb ltr  layout-boxed off-canvas-menu-init">
+
+		<div class="body-wrapper">
+			
+				<header id="sp-header">
+					<div class="container">
+						<div class="row">
+							<div id="sp-logo" class="col-8 col-lg-3 ">
+								
+							</div>
+							<div id="sp-menu" class="col-4 col-lg-9 ">
+								<div class="sp-column ">
+									<div class='sp-megamenu-wrapper'>
+										<a id="offcanvas-toggler" class="d-block d-lg-none"
+											aria-label="Helix3 Megamenu Options" href="#"><i class="fa fa-bars"
+												aria-hidden="true" title="Helix3 Megamenu Options"></i></a>
+										<ul class="sp-megamenu-parent menu-zoom d-none d-lg-block">
+											<li class="sp-menu-item"><a href="../../../index-2.html">Home</a></li>
+											<li class="sp-menu-item sp-has-child active"><a
+													href="../../top-attractions.html">KENYA SAFARIS</a>
+												<div class="sp-dropdown sp-dropdown-main sp-menu-right"
+													style="width: 240px;">
+													<div class="sp-dropdown-inner">
+														<ul class="sp-dropdown-items">
+															<li class="sp-menu-item current-item active"><a
+																	href="../nairobi-safaris-2.html">NAIROBI SAFARIS
+																</a></li>
+															<li class="sp-menu-item"><a
+																	href="../mombasa-safaris.html">MOMBASA SAFARIS </a>
+															</li>
+															<li class="sp-menu-item"><a
+																	href="../nairobi-mombasa-safaris.html">NAIROBI-MOMBASA
+																	SAFARIS</a></li>
+														</ul>
+													</div>
+												</div>
+											</li>
+											<li class="sp-menu-item sp-has-child"><a
+													href="../../international-safaris.html">INTERNATIONAL SAFARIS</a>
+												<div class="sp-dropdown sp-dropdown-main sp-menu-right"
+													style="width: 240px;">
+													<div class="sp-dropdown-inner">
+														<ul class="sp-dropdown-items">
+															<li class="sp-menu-item"><a
+																	href="../../international-safaris/tanzania-safaris.html">TANZANIA
+																	SAFARIS </a></li>
+															<li class="sp-menu-item"><a
+																	href="../../international-safaris/uganda-safaris.html">UGANDA
+																	SAFARIS</a></li>
+															<li class="sp-menu-item"><a
+																	href="../../international-safaris/zazimbar-safaris.html">ZAZIMBAR
+																	SAFARIS</a></li>
+														</ul>
+													</div>
+												</div>
+											</li>
+											
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</header>
+				<section id="sp-page-title">
+					<div class="row">
+						<div id="sp-title" class="col-lg-12 ">
+							<div class="sp-column ">
+								<div class="sp-module ">
+									<div class="sp-module-content">
+										<style type="text/css">
+											#vina-awesome-slider148 {
+												max-width: px;
+											}
+
+											#vina-awesome-slider148 .ws_bulframe div {
+												width: 120px;
+											}
+
+											#vina-awesome-slider148 .ws_bulframe div div {
+												height: 60px;
+											}
+
+											#vina-awesome-slider148 .ws_bulframe span {
+												left: 60px;
+											}
+
+											#vina-awesome-slider148 .ws-title {
+												bottom: 30px;
+												left: 0;
+												border-radius: 0 5px 5px 0;
+											}
+
+											#vina-copyright148 {
+												font-size: 12px;
+												height: 1px;
+												overflow: hidden;
+												clear: both;
+											}
+										</style>
+										
+											</div>
+
+											<div class="ws_shadow"></div>
+										</div>
+										<script>
+											jQuery(document).ready(function($) {
+												$("#vina-awesome-slider148").wowSlider({
+													effect: "blinds",
+													duration: 2000,
+													delay: 2000,
+													width: 1600,
+													height: 500,
+													autoPlay: true,
+													playPause: true,
+													stopOnHover: true,
+													loop: false,
+													bullets: true,
+													caption: true,
+													captionEffect: "slide",
+													controls: true,
+												});
+											});
+										</script>
+										
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section id="sp-main-body">
+					<div class="container">
+						<div class="row">
+							<div id="sp-left" class="col-lg-3 ">
+								<div class="sp-column custom-class">
+									<div class="sp-module ">
+										<h3 class="sp-module-title">Safaris From Mombasa</h3>
+										<div class="sp-module-content">
+											<ul class="category-module mod-list">
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/107-daytrip-to-amboseli-from-nairobi-175.html">
+														1 Day Trip Amboseli private $ 240</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/122-3-days-kenya-budget-safari-tour-masai-mara-3-day-tour.html">
+														3 days Masai Mara Shared budget safari $365 I kenya safari
+														cost</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/110-4-days-safari-in-kenya.html">
+														4 Days Nairobi-Amboseli -Tsavo West-Tsavo east- Mombasa $895 I 4
+														Days Kenya private safari cost</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/93-kenya-safari-5-days-500.html">
+														5 Days Masai Mara Lake Nakuru Lake Naivasha $ 600</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/114-kenya-tanzania-combined-trip.html">11
+														days kenya/Tanzania budget safari $1925 p.p | 10 days Masai mara
+														Lake nakuru Amboseli Arusha Tarangire Serengeti ngorongoro
+														Arusha Nairobi</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/174-13-days-best-of-kenya-safari.html">13
+														DAYS MASAI MARA/LAKE NAKURU/SAMBURU/ABERDARE/LAKE
+														NAIVASHA/AMBOSELI/TSAVO EAST/MOMBASA/DIANI</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/163-2-days-budget-amboseli-kenya-safari.html">2
+														days Amboseli group joining tour $ 380</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/157-2-days-amboseli-budget-tour.html">2
+														days Amboseli private safari $ 380</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/135-02-days-tsavo-safari-package.html">2
+														Days Tsavo East budget safari $460</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/159-3-days-kenya-budget-safari-tour-private.html">3
+														Days Nairobi-Amboseli-Tsavo East- $ 640 Mombasa /Diani
+														private</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/167-4-days-budget-tour-kenya.html">4
+														Day Lake Nakuru/ Masai mara US$ 520/ 4 days masai mara and lake
+														nakuru/4 days big five safari tour Kenya</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/171-4-days-gorilla-trekking.html">4
+														days Gorilla trekking itinerary $1695</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/168-4-days-masai-mara-budget-safari-430.html">4
+														days Masai mara budget safari $595</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/172-4-days-mombasa-tsavo-east-taita-saltlick-safari-package-kenya.html">4
+														days Mombasa -Tsavo east -Taita Saltlick safari $830</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/164-4-days-tanzania-budget-safari-800.html">4
+														Days Tanzania groups joining safari $ 800 I 4 days
+														Tarangire/serengeti/ngorongoro camping tour $ 800</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/126-4-days-kenya-budget-safari.html">4
+														Days Tsavo East/Amboseli/Tsavo west Safari $ 895</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/175-5-days-masai-mara-lake-nakuru-lake-naivasha-hells-gate-5-days-kenya-budget-safari.html">5
+														days masai mara lake nakuru lake naivasha hells gate $600/5 days
+														kenya safari tour package / 5 days kenya budget safari</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/148-6-days-5-nghts-arusha-lake-manyara-serengeti-ngorongoro-tanzania-trip.html">6
+														DAYS 5 NGHTS ARUSHA- LAKE MANYARA-SERENGETI-NGORONGORO TANZANIA
+														TRIP.</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/123-best-safari-in-kenya-kenya-safari-cost.html">6
+														days masai mara- Lake nakuru-Amboseli-Tsavo East-Mombasa $
+														1395</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/144-6-days-kenya-budget-safari-735-per-person.html">6
+														Days Masai mara-Lake Nakuru-Amboseli budget safari $735</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/161-5-days-nairobi-to-mombasa-safari-730.html">6
+														days Masai mara/Naivasha/Amboseli/Tsavo East Mombasa$ 1395</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/158-6-days-budget-group-sharing-kenya-safari-in-kenya.html">6
+														Days/masai mara/Lake nakuru/Amboseli safari $ 735</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/170-6-kenya-and-tanzania-combined-safari.html">6
+														Masai Mara Serengeti Ngorongoro Lake Manyara safari</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/91-7-days-kenya-budget-safari.html">7
+														DAYS MASAI MARA,LAKE NAKURU, LAKE NAIVASHA, AMBOSELI US$ 850/ 7
+														DAYS KENYA TOUR GROUP SAFARI PACKAGE</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/103-taiormade-tours.html">kenya
+														Tours</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/165-covid-19-new-update-kenya-nairobi.html">Kenyan
+														Government issues new directive on November 26 about new variant
+														covid 19</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../57-tour-holiday-in-kenya/mombasa-safaris/104-combined-safaris.html">Nairobi
+														Safaris</a>
+
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div class="sp-module ">
+										<h3 class="sp-module-title">Safaris from Nairobi</h3>
+										<div class="sp-module-content">
+											<ul class="category-module mod-list">
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/81-kenya-holiday-packages.html">
+														SAFARI INFORMATION KENYA</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/85-2-days-lake-nakuru-national-park.html">2
+														Days Lake Nakuru National Park</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/83-3-days-amboseli-safari.html">3
+														Days Amboseli Safari $630 - 3 days kenya budget safari</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/88-3-days-amboseli-safari-package.html">3
+														Days Amboseli Safari Package $ 620</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/87-3-days-masai-mara-safari.html">3
+														Days Masai Mara Safari- Wild beast migration trip in Kenya</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/89-4-days-aberdare-samburu-safari.html">4
+														Days Aberdare/Samburu Safari.</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/140-4-days-tour-to-maasai-mara.html">4
+														DIAS Y 3 NOCHES KENYA SAFARI</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/90-5-days-mt-kenya-climbing-safari.html">5
+														Days Mt Kenya Climbing Safari</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/84-5-days-safari-package-package.html">5
+														Days tour in kenya visit Lake Naivasha| Lake Nakuru| Lake
+														Baringo| Lake Bogoria Rift valley lakes</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/92-5days-sweetwaters-lake-nakuru-maasai-mara.html">5days
+														Sweetwaters/Nakuru/Mara</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/100-8-days-7-nights-tanzania-classic-safari.html">8
+														Days/ 7 nights Tanzania Classic safari</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/141-base-camp-explorers.html">BASE
+														CAMP EXPLORERS - DOROBO CAMP</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/143-book-a-safari-to-aberdare-national-park.html">Book
+														a safari to Aberdare national park</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/138-kenya-safari-lodges.html">JAMBO
+														MARA SAFARI LODGE</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/147-kenya-national-park-safari-and-beach-holiday-vacation.html">kenya
+														safari and beach holiday vacation</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/142-mpata-safari-lodge-maasai-mara-accommodation.html">MPATA
+														SAFARI LODGE- MAASAI MARA ACCOMMODATION</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/102-nairobi-short-excursions.html">Nairobi
+														day tours/ short Excursions</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/139-11-days-kenya-tanzania-safari-package.html">SAFARI
+														FROM KENYA TO TANZANIA SAFARI PACKAGE COMBINED</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../54-kenya-safari/kenya-wildlife-safari-tour/budget-accommodation-in-nairobi/106-testimonials.html">Testimonials</a>
+
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div class="sp-module ">
+										<div class="sp-module-content">
+											<div id="TA_selfserveprop98" class="viktacnt TA_selfserveprop">
+												<ul id="LN6IRZ9U5XGS" class="TA_links SHjeWmHcfsW">
+													<li id="RudzFvi1Yl" class="6zFmqoPKmoWs">
+														<a target="_blank"
+															href="https://www.tripadvisor.com/Attraction_Review-g1183067-d10920424-Reviews-Free Africa_Kenya_Tours_and_Safaris-Shanzu_Mombasa_Coast_Province.html"></a>
+													</li>
+												</ul>
+											</div>
+											<script
+												src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=98&amp;locationId=10920424&amp;lang=en_US&amp;rating=true&amp;nreviews=8&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=true">
+											</script>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div id="sp-component" class="col-lg-9 ">
+								<div class="sp-column ">
+									<div id="system-message-container">
+									</div>
+									<article class="item item-page" itemscope itemtype="http://schema.org/Article">
+										<meta itemprop="inLanguage" content="en-GB" />
+										<div class="page-header">
+											<h1> NAIROBI SAFARIS </h1>
+										</div>
+
+										<div class="entry-header has-post-format">
+
+											<dl class="article-info">
+
+												<dt class="article-info-term"></dt>
+
+												<dd class="category-name">
+													<i class="fa fa-folder-open-o" area-hidden="true"></i>
+													<span itemprop="genre" itemprop="genre" data-toggle="tooltip"
+														title="Article Category">NAIROBI SAFARIS </span> </dd>
+
+											</dl>
+
+											<span class="post-format">
+												<i class="fa fa-thumb-tack" area-hidden="true"></i>
+											</span>
+
+											<h2 itemprop="name">
+												14 Days Meru National Park, Samburu,Aberdare, Lake Nakuru, Lake
+												Naivasha,Masai Mara,Amboseli,Tsavo East, Tsavo West, Safari package
+											</h2>
+										</div>
+
+										<div itemprop="articleBody">
+											<p>14 Days Meru National Park, Samburu,Aberdare, Lake Nakuru, Lake
+												Naivasha,Masai Mara,Amboseli,Tsavo East, Tsavo West, Safari package</p>
+											<p>Day 1. Pick up from Nairobi hotel and depart for Samburu National Park to
+												arrive for a short game drive then lunch.Afternoon game drive. Dinner
+												and overnight  at Samburu Sentrim Camp.</p>
+											<p>Day 2. Full day  in Samburu with Morning and afternoon game drive .Meals
+												and overnight at Samburu Sentrim Camp.</p>
+											<p>Day 3. Breakfast and depart for Meru National park arrive for game drive,
+												then lunch, followed by afternoon game drive. Dinner and overnight at
+												Rhino River Lodge.</p>
+											<p>Day 4. Full day in Meru with Morning and afternoon game drive .Meals and
+												overnight at Rhino River Lodge.</p>
+											<p>Day 5. After breakfast depart for aberdare National park to Arrive in
+												time for lunch have lunch at Aberdare country club and prooced to the
+												Ark Lodge in the Afternoon for dinner and overnight.</p>
+											<p>Day 6 for Lake Nakuru National park this day for game drives. Lunch at
+												Waterbuck hotel. Afternoon game drives for birding to this
+												orinthologicals paradise. Dinner and overnight at the Waterbuck Hotel.
+											</p>
+											<p>Day 7. Breakfast depart and drive to Maasai mara National reserve. Arrive
+												in time for lunch. Afternoon game viewing drives. Dinner and overnight
+												at the Fisi Camp.</p>
+											<p>Day 8. Full day in Maasai Mara with morning and afternoon game viewing or
+												optional full day game drive with picnic lunch. Dinner and overnight at
+												 Mara Fisi Camp.</p>
+											<p>Day 9: Breakfast, then depart for Lake Naivasha arrive for Lunch and in
+												the afternoon visit hells gate for game drive and bike rike
+												riding.Dinner and overnight at Kongoni Lodge.</p>
+											<p>Day 10. Early morning breakfast and depart for trekking at Mt Longonot
+												with picnic lunch. Later driver to Nairobi for dinner and overnight at
+												the Monarch Hotel</p>
+											<p>Day 11. Leave Nairobi Hotel in the morning and drive to Amboseli National
+												Park.Lunch at AA Lodge followed by afternoon game drive.Dinner and
+												overnight at  AA Lodge Amboseli.</p>
+											<p>Day 12. Early morning game drive and depart for Tsavo west National park
+												with a visit to Mzima springs. Lunch at Ngulia Lodge followed by
+												afternoon game drive and a visit to the rhino sanctuary. Dinner and
+												overnight at Ngulia Safari Lodge</p>
+											<p>Day 13. Breakfast then depart for Tsavo east National Park for the game
+												drives.Lunch at the Voi safari Lodge.Afternoon game drives. Dinner and
+												overnight at Voi safari Lodge.</p>
+											<p>Day 14. Breakfast then Return drive to Nairobi. Lunch  at Carnivore
+												restaurant then drop off Airport for your departure flight.</p>
+											<p>Price per person sharing @ US$ 5050</p>
+											<p> </p>
+											<p><strong>QUOTATION INCLUDES:</strong></p>
+											<ul>
+												<li>Departure Airport transfers</li>
+												<li> Full board accommodation in Lodges/ camps while on safari</li>
+												<li>  Transport on <strong>exclusive (prívate)</strong> <strong>basis
+													</strong>in a 08-Seater safari microbús (07-window seats) with a
+													roof hatch for enhanced game viewing / photography and services of a
+													professional <strong>ENGLISH speaking driver/guide.</strong>.</li>
+												<li>Game viewing drives as indicated on itinerary above</li>
+												<li>  Park entrance fees</li>
+												<li>Bottled mineral water in vehicle on safari.</li>
+												<li>  Welcome pack in Nairobi, with complimentary safari hat, operating
+													itinerary, safari information. </li>
+											</ul>
+											<p> </p>
+											<p><strong><u>NOT INCLUDED</u></strong></p>
+											<p>v  International and local flights</p>
+											<p>v  Airport departure taxes</p>
+											<p>v  Visa fees – <em>payable direct  ( at US$ 50 PP) for single entry
+													visa.</em></p>
+											<p>v  Drinks.</p>
+											<p>v  Travel and medical insurances</p>
+											<p>v  Porterage, tips and gratuities to local waiting staff and driver
+												guides.</p>
+											<p>v  Excursions not detailed in above program.</p>
+											<p>v  All Items of personal nature e.g. laundry, phone charges etc.</p>
+											<p> </p>
+										</div>
+
+										<div class="article-footer-wrap">
+											<div class="article-footer-top">
+												<dd class="post_rating" id="post_vote_155">
+													Rating: <div class="voting-symbol sp-rating">
+														<span class="star active" data-number="5"></span><span
+															class="star active" data-number="4"></span><span
+															class="star active" data-number="3"></span><span
+															class="star active" data-number="2"></span><span
+															class="star active" data-number="1"></span> </div>
+													<span class="ajax-loader fa fa-spinner fa-spin"></span>
+													<span class="voting-result">( 2 Ratings )</span>
+												</dd>
+												<div class="helix-social-share">
+													<div class="helix-social-share-icon">
+														<ul>
+															<li>
+																<div class="facebook" data-toggle="tooltip"
+																	data-placement="top" title="Share On Facebook">
+																	<a class="facebook"
+																		onClick="window.open('https://m.facebook.com/sharer.php?u=https%3A%2F%2Fwww.freeafricatoursandsafaris.com%2Findex.php%2Ftop-attractions%2Fnairobi-safaris-2%2F155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;"
+																		href="https://m.facebook.com/sharer.php?u=https%3A%2F%2Fwww.freeafricatoursandsafaris.com%2Findex.php%2Ftop-attractions%2Fnairobi-safaris-2%2F155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html">
+																		<i class="fa fa-facebook"></i>
+																	</a>
+																</div>
+															</li>
+
+															<li>
+																<div class="twitter" data-toggle="tooltip"
+																	data-placement="top" title="Share On Twitter">
+																	<a class="twitter"
+																		onClick="window.open('../../../../twitter.com/share5222.html?url=/resources/index.php/top-attractions/nairobi-safaris-2/155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html&amp;text=14%20Days%20Meru%20National%20Park,%20Samburu,Aberdare,%20Lake%20Nakuru,%20Lake%20Naivasha,Masai%20Mara,Amboseli,Tsavo%20East,%20Tsavo%20West,%20Safari%20package','Twitter share','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;"
+																		href="../../../../twitter.com/share5222.html?url=/resources/index.php/top-attractions/nairobi-safaris-2/155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html&amp;text=14%20Days%20Meru%20National%20Park,%20Samburu,Aberdare,%20Lake%20Nakuru,%20Lake%20Naivasha,Masai%20Mara,Amboseli,Tsavo%20East,%20Tsavo%20West,%20Safari%20package">
+																		<i class="fa fa-twitter"></i>
+																	</a>
+																</div>
+															</li>
+
+															<li>
+																<div class="linkedin">
+																	<a class="linkedin" data-toggle="tooltip"
+																		data-placement="top" title="Share On Linkedin"
+																		onClick="window.open('https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2FshareArticle%3Fmini%3Dtrue%26url%3Dhttps%3A%2F%2Fwww.freeafricatoursandsafaris.com%2Findex.php%2Ftop-attractions%2Fnairobi-safaris-2%2F155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html','Linkedin','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;"
+																		href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2FshareArticle%3Fmini%3Dtrue%26url%3Dhttps%3A%2F%2Fwww.freeafricatoursandsafaris.com%2Findex.php%2Ftop-attractions%2Fnairobi-safaris-2%2F155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html">
+																		<i class="fa fa-linkedin-square"></i>
+																	</a>
+																</div>
+															</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+											<div id="sp-comments"></div>
+										</div>
+
+									</article>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section id="sp-badges">
+					<div class="container">
+						<div class="row">
+							<div id="sp-position1" class="col-lg-3 ">
+								<div class="sp-column ">
+									<div class="sp-module ">
+										<h3 class="sp-module-title">Safaris from Nairobi</h3>
+										<div class="sp-module-content">
+
+											<div class="custom">
+												<ul>
+													<li><a class="mod-articles-category-title "
+															href="../../Nairobi-Safaris/3-days-amboseli-safari-package.html">3
+															Days Amboseli Safari Package</a></li>
+													<li><a class="mod-articles-category-title "
+															href="../../Nairobi-Safaris/4-days-aberdare-samburu-safari.html">4
+															Days Aberdare/Samburu Safari.</a></li>
+													<li><a class="mod-articles-category-title "
+															href="../../Nairobi-Safaris/5-days-mt-kenya-climbing-safari.html">5
+															Days Mt Kenya Climbing Safari</a></li>
+													<li><a class="mod-articles-category-title "
+															href="../../Nairobi-Safaris/5-days-naivasha-nakuru-mara.html">5
+															Days Naivasha/Nakuru/Mara</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div id="sp-position2" class="col-lg-3 ">
+								<div class="sp-column ">
+									<div class="sp-module ">
+										<h3 class="sp-module-title">Safaris From Mombasa</h3>
+										<div class="sp-module-content">
+
+											<div class="custom">
+												<ul class="category-module">
+													<li><a class="mod-articles-category-title "
+															href="../../Nairobi-Safaris/2-days-lake-nakuru-national-park.html">2
+															Days Lake Nakuru National Park</a></li>
+													<li><a class="mod-articles-category-title "
+															href="../../Nairobi-Safaris/3-days-amboseli-safari-package.html">3
+															Days Amboseli Safari Package</a></li>
+													<li><a class="mod-articles-category-title "
+															href="../../Nairobi-Safaris/4-days-aberdare-samburu-safari.html">4
+															Days Aberdare/Samburu Safari</a></li>
+													<li><a class="mod-articles-category-title "
+															href="../../Nairobi-Safaris/5-days-naivasha-nakuru-mara.html">5
+															Days Naivasha/Nakuru/Mara</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div id="sp-position3" class="col-lg-6 ">
+								<div class="sp-column ">
+									<div class="sp-module ">
+										<h3 class="sp-module-title">Kenya-Tanzania-Rwanda-Uganda Safaris</h3>
+										<div class="sp-module-content">
+											<ul class="category-module mod-list">
+												<li>
+													<a class="mod-articles-category-title "
+														href="../55-kenya-tanzania-rwanda-uganda-safaris/166-1-day-tour-kenya-safari-from-mombasa.html">1
+														Daytrip Tsavo East from Mombasa $270</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../55-kenya-tanzania-rwanda-uganda-safaris/169-kenya-national-parks-tour.html">KENYA
+														NATIONAL PARKS  TOUR</a>
+
+												</li>
+												<li>
+													<a class="mod-articles-category-title "
+														href="../55-kenya-tanzania-rwanda-uganda-safaris/145-kenya-tour-package-kenya-trip.html">kenya
+														Tour package| Kenya trip | Kenya Holiday weekend offer</a>
+
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				
+			</div>
+		</div>
+
+		<!-- Off Canvas Menu -->
+		<div class="offcanvas-menu">
+			<a href="#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true"
+					title="Close"></i></a>
+			<div class="offcanvas-inner">
+				<p class="alert alert-warning">
+					Please publish modules in <strong>offcanvas</strong> position. </p>
+			</div>
+		</div>
+
+    <!-- Start of Tawk.to Script -->
+    <script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+        var s1=document.createElement("script"), s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/66371d8107f59932ab3c2518/1hteoclkb';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+    })();
+    </script>
+    <!-- End of Tawk.to Script -->
+
+		<!-- Go to top -->
+	</body>
+
+	<!-- created for www.freeafricatoursandsafaris.com/index.php/top-attractions/nairobi-safaris-2/155-14-days-meru-national-park-samburu-aberdare-lake-nakuru-lake-naivasha-masai-mara-amboseli-tsavo-east-tsavo-west-safari-package.html by GuavyTechSolutions2024 23:11:57 GMT -->
+
+</html>

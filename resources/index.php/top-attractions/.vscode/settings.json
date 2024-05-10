@@ -1,0 +1,5 @@
+{
+    "prettier.requireConfig": true,
+    "formatSelectionAsHtml.formatter": "prettier",
+    "prettier.htmlWhitespaceSensitivity": "ignore"
+}
